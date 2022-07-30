@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "my stream",
+      "description": "this is a great stream",
+      "id": 1
+    },
+    {
+      "title": "my stream",
+      "description": "this is a great stream",
+      "id": 2
+    },
+    {
+      "title": "watching stephen grider teach me reuse code",
+      "description": "bananas",
+      "id": 4
+    },
+    {
+      "title": "bananas",
+      "description": "abacaxi",
+      "userId": "112004449301415688712",
+      "id": 5
+    }
+  ]
+}
